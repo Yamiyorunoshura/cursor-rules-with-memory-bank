@@ -1,0 +1,1 @@
+# cursor-rules-with-memory-bank

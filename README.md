@@ -33,4 +33,4 @@ cursor rules with memory_bank/
 
 ## 授權
 
-此專案採用MIT授權。 
+此專案採用MIT授權。
